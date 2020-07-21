@@ -15,14 +15,14 @@ const Experiences = [
         ]
     },
     {
-        jobTitle: 'Team Lead ',
+        jobTitle: 'Developer ',
         note: '(Industry sponsored student project)',
         company: 'TutorBuddy',
         location: 'Victoria, BC, Canada',
         startDate: new Date(2019, 8),
         endDate: new Date(2019, 11),
         links: [
-            { label: 'Repo', link: 'https://github.com/Ivan1120/TutorBuddy', icon: 'github alternate' },
+
            { label: 'Live Demo', link: 'https://tutorbuddy-uvic.herokuapp.com', icon: 'globe' },
 
         ],
