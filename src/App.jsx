@@ -23,7 +23,7 @@ function App() {
                 <Route path="/resume">
                   <ResumePage/>
                 </Route>
-                <Route path="/">
+                <Route>
                   <ResumePage/>
                 </Route>
             </Switch>
