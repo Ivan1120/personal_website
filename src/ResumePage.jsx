@@ -11,7 +11,7 @@ import Experiences from './data/Experiences'
 import Educations from './data/Educations'
 import Skills from './data/Skills'
 import MyInfo from './data/MyInfo'
-// import myPic_sm from './img/myPic.PNG'
+ import myPic_sm from './img/myPic.PNG'
 
 class ResumePage extends React.Component{
 
@@ -37,7 +37,7 @@ class ResumePage extends React.Component{
             <div className="ui container">
                 <Grid textAlign='center' >
                     <Grid.Column width={4} className="d-flex justify-content-center" >
-                      {/* <Image className="rounded-circle"src={myPic_sm} /> */}
+                    <Image className="rounded-circle"src={myPic_sm} /> 
 
                     </Grid.Column>
                     <Grid.Column width={7} textAlign='left' className="align-self-center">
