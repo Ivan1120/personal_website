@@ -1,14 +1,12 @@
 const Skills = [
-    { type: 'language', label: 'Java', percentage: 90 },
-    { type: 'language', label: 'Javascript', percentage: 85 },
-    { type: 'language', label: 'HTML/CSS', percentage: 84 },
-    { type: 'language', label: 'SQL', percentage: 80 },
-    { type: 'language', label: 'C++', percentage: 75 },
-    { type: 'language', label: 'C#', percentage: 70 },
-    { type: 'language', label: 'C', percentage: 50 },
-    { type: 'language', label: 'Typescript', percentage: 50 },
-    { type: 'language', label: 'Kotlin', percentage: 30 },
-  
+   
+    { type: 'language', label: 'Python', percentage: 80 },
+    { type: 'language', label: 'JavaScript', percentage: 75 },
+    { type: 'language', label: 'HTML', percentage: 70 },
+    { type: 'language', label: 'CSS', percentage: 80 },
+    { type: 'language', label: 'C#', percentage: 75 },
+    { type: 'language', label: 'Java', percentage: 75 },
+    { type: 'language', label: 'SQL', percentage: 75 },
 
    
 
@@ -22,13 +20,15 @@ const Skills = [
     { type: 'framwork', label: 'ASP.Net', percentage: 75 },
 
 
-    { type: 'library', label: 'React', percentage: 75 },
-    { type: 'library', label: 'React Native', percentage: 50 },
+
+  
+    
 
    
-    { type: 'platform', label: 'AWS', percentage: 75 },
-    { type: 'platform', label: 'Docker', percentage: 30 },
-    { type: 'platform', label: 'Testing', percentage: 70 },
+    { type: 'platform', label: 'Web Development', percentage: 75 },
+    { type: 'platform', label: 'REST API', percentage: 30 },
+    { type: 'platform', label: 'JSON', percentage: 70 },
+    { type: 'platform', label: 'Database', percentage: 70 },
     { type: 'platform', label: 'Linux', percentage: 65 },
 
 
