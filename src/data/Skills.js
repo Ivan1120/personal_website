@@ -5,7 +5,7 @@ const Skills = [
     { type: 'language', label: 'HTML', percentage: 70 },
     { type: 'language', label: 'CSS', percentage: 80 },
     { type: 'language', label: 'C#', percentage: 75 },
-    { type: 'language', label: 'Java', percentage: 75 },
+    { type: 'language', label: 'Java', percentage: 80 },
     { type: 'language', label: 'SQL', percentage: 75 },
 
    
