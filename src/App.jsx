@@ -12,14 +12,10 @@ import './App.css';
 function App() {
   return (
     <div>
-
       <Router>
         <Menu/>
-          
-         
           <div>
             <Switch>
-              
                 <Route path="/resume">
                   <ResumePage/>
                 </Route>
@@ -28,10 +24,7 @@ function App() {
                 </Route>
             </Switch>
           </div>
-
           <Footer/>
-
-         
       </Router>
     </div>
   );

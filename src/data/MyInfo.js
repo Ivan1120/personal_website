@@ -1,6 +1,6 @@
 const MyInfo ={
     'name':'Ivan Chen',
-    'position':'Junior Software Developer',
+    'position':'Software Developer',
     'location':'Vancouver, BC',
     'description': `Studying at BCIT has provided me with strong knowledge of Object-programming, web development, and Database.
     Moreover,I was fortunate to practise my skills by working within group and building different projects. 

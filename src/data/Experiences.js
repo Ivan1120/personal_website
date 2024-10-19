@@ -1,48 +1,36 @@
 const Experiences = [
    
     {
-        jobTitle: 'Developer ',
-        note: '(Industry sponsored student project)',
-        company: 'BuiltSpace Technologies Corp',
+        jobTitle: 'Software Developer ',
+        note: '',
+        company: 'D3 Security Management Systems',
         location: 'Vancouver, BC, Canada',
-        startDate: new Date(2020, 3),
-        endDate: new Date(2020, 4),
+        startDate: new Date(2020, 10),
+        endDate: new Date(2024,10),
         description: [
-            'Worked in a 5-person team to develop a mobile application for technicians to fill inspection report',
-            'Designed the solutions by utilizing react native and realm database',
-
-
+            'Designed and maintained integrations of the company\'s core product with 100+ external applications and APIs using C# and T-SQL',
+            'Developed 10+ database schemas, internal APIs, and business logic to process integration requests',
+            'Implemented a database cleanup job that improved query performance by 30%',
+            'Developed and optimized 10+ dynamic frontend components using jQuery to enhance user experience',
+            'Collaborated with stakeholders to meet product requirements and develop 10+ POCs',
+            'Resolved 10+ production issues with clients, ensuring system reliability and high client satisfaction'
         ]
     },
     {
-        jobTitle: 'Developer ',
-        note: '(Industry sponsored student project)',
-        company: 'TutorBuddy',
-        location: 'Victoria, BC, Canada',
-        startDate: new Date(2019, 8),
-        endDate: new Date(2019, 11),
-        links: [
-
-           { label: 'Live Demo', link: 'https://tutorbuddy-uvic.herokuapp.com', icon: 'globe' },
-
-        ],
-        description: [
-            'Worked in a 5-person team and participated weekly meeting with an industry client',
-            'Designed and implemented database scheme for course, tutor, and tutee info',
-            'Managed project structure by utilizing ExpressJS, mongoDB ,Ejs and Bootstrap',
-        ]
-    },
-    {
-        jobTitle: 'Peer Tutor',
-        company: 'British Columbia Institute of Technology',
-        location: 'Burnaby, BC, Canada',
+        jobTitle: 'Web development Intern ',
+        note: '',
+        company: 'RoRo Holding Inc',
+        location: 'Vancouver, BC, Canada',
         startDate: new Date(2019, 4),
-        endDate: new Date(2020, 4),
+        endDate: new Date(2019,7),
         description: [
-            'Tutor students in subjects such as in Java, C, C++ and web development',
-            'Clear students’ confusion of course concepts in data communication and Algorithm'
+            'Created front-end pages utilizing ReactJS and Bootstrap, ensuring seamless integration with the back-end API',
+            'Implemented RESTful endpoints using Spring Boot, integrated with PostgreSQL for database management',
+            'Applied responsive design techniques to ensure compatibility and optimal user experience across various devices'
         ]
     }
+
+  
 ]
 
 export default Experiences;
