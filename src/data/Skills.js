@@ -26,7 +26,7 @@ const Skills = [
 
    
     { type: 'platform', label: 'Web Development', percentage: 75 },
-    { type: 'platform', label: 'REST API', percentage: 30 },
+    { type: 'platform', label: 'REST API', percentage: 80 },
     { type: 'platform', label: 'JSON', percentage: 70 },
     { type: 'platform', label: 'Database', percentage: 70 },
     { type: 'platform', label: 'Linux', percentage: 65 },

@@ -1,7 +1,7 @@
 import React from 'react';
 import Menu from './Components/Menu'
 import Footer from './Components/Footer'
-import ResumePage from './ResumePage'
+import ResumePage from './Page/ResumePage.jsx'
 import{
   BrowserRouter as Router,
   Switch,

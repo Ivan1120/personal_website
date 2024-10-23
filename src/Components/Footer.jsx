@@ -45,7 +45,7 @@ class Footer extends React.Component{
                 <div className="ui container">
                     <div className="ui inverted divided equal height stackable grid">
                         <div className="three wide column"></div>
-
+                        
                         <div className="three wide column"> </div>
                         <div className="three wide column">
                             <h4 className="ui inverted header">Sitemap</h4>

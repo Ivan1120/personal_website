@@ -66,7 +66,7 @@ const projectList = [
         startDate: new Date(2020, 4),
         endDate: new Date(2020, 5),
         role: 'Developer',
-        category: 'Group Web App',
+        category: '',
         projectName: 'Project Management Tool',
         teckStack: [
             { techName: 'ASP.Net', desc: null },
