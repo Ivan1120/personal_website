@@ -2,8 +2,8 @@ const projectList = [
    
     {
        
-        startDate: new Date(2020, 3),
-        endDate: new Date(2020, 4),
+        // startDate: new Date(2020, 3),
+        // endDate: new Date(2020, 4),
         role: 'Developer',
         category: '',
         projectName: 'BuiltSpace Technologies Corp',
@@ -31,8 +31,8 @@ const projectList = [
     ,
     {
        
-        startDate: new Date(2019, 8),
-        endDate: new Date(2019, 11),
+        // startDate: new Date(2019, 8),
+        // endDate: new Date(2019, 11),
         role: 'Developer',
         category: '',
         projectName: 'TutorBuddy',
@@ -63,8 +63,8 @@ const projectList = [
    ,
     {
        
-        startDate: new Date(2020, 4),
-        endDate: new Date(2020, 5),
+        // startDate: new Date(2020, 4),
+        // endDate: new Date(2020, 5),
         role: 'Developer',
         category: '',
         projectName: 'Project Management Tool',
