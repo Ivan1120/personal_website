@@ -7,6 +7,7 @@ const mmmYYYY = (d) => {
     let yyyy = date.getFullYear();
     if (index === new Date().getMonth() && yyyy === new Date().getFullYear())
         return 'Present';
+    
     return `${mmm}, ${yyyy}`;
 };
 
